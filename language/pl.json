@@ -1,21 +1,21 @@
 {
     "hotkeys": {
-        "Show/Hide": "Toon/verstoppen",
-        "Toggle Second Screen": "Schakel tweede scherm in/uit"
+        "Show/Hide": "Pokaż/ukryj",
+        "Toggle Second Screen": "Przełącz drugi ekran"
     },
     "titlebarControls": {
-        "Join Discord": "Discord lid worden",
-        "Minimize": "Minimaliseren",
-        "Maximize": "Maximaliseren",
-        "Close": "Sluiten"
+        "Join Discord": "Dołącz do Discorda",
+        "Minimize": "Minimalizuj",
+        "Maximize": "Maksymalizuj",
+        "Close": "Zamknij"
     },
     "tiles": {
-        "Home": "Thuis",
-        "Map": "Kaart",
-        "Operators": "Operatoren",
-        "Weapons": "Wapens",
-        "How to call": "Hoe te bellen",
-        "Help": "",
+        "Home": "Strona główna",
+        "Map": "Mapa",
+        "Operators": "Operatorzy",
+        "Weapons": "Broń",
+        "How to call": "Jak porozumiewać się",
+        "Help": "Pomoc",
         "About": "",
         "Settings": ""
     },

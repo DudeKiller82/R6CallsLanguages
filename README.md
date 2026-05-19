@@ -2,19 +2,31 @@
 Contains the language files for R6Calls
 
 English
-Literals:       1038
-Translated:     0
-Not Translated: 1038
-Ratio:          0.00%
-
-简体中文
-Literals:       1038
-Translated:     33
-Not Translated: 1005
-Ratio:          3.18%
+Literals:       1039
+Translated:     1039
+Not Translated: 0
+Ratio:          100.00%
 
 Français
-Literals:       1038
-Translated:     448
-Not Translated: 590
-Ratio:          43.16%
+Literals:       1039
+Translated:     1039
+Not Translated: 0
+Ratio:          100.00%
+
+Nederlands
+Literals:       1039
+Translated:     16
+Not Translated: 1023
+Ratio:          1.54%
+
+Polski
+Literals:       1039
+Translated:     17
+Not Translated: 1022
+Ratio:          1.64%
+
+简体中文
+Literals:       1039
+Translated:     38
+Not Translated: 1001
+Ratio:          3.66%
