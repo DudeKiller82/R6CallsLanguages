@@ -15,6 +15,6 @@ Ratio:          3.18%
 
 Français
 Literals:       1038
-Translated:     446
-Not Translated: 592
-Ratio:          42.97%
+Translated:     448
+Not Translated: 590
+Ratio:          43.16%
