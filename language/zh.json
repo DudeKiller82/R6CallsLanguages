@@ -1,7 +1,7 @@
 {
     "hotkeys": {
         "Show/Hide": "显示/隐藏",
-        "Toggle Second Screen": "切换第二屏幕",
+        "Toggle Second Screen": "切换第二屏幕"
     },
     "titlebarControls": {
         "Join Discord": "加入 Discord",
@@ -192,7 +192,7 @@
         "Interactions": "交互",
         "Postures": "姿态",
         "Select Drawing Style": "选择绘图样式",
-        "Full": " 实线",
+        "Full": "实线",
         "Dash 2": "短划线",
         "Dash 4": "长划线",
         "Dash 1 2": "1-2划线",
@@ -267,7 +267,7 @@
         "bank": {
             "ALLEY": "后巷",
             "JEWELRY": "首饰店",
-            "BOULEVARD": "大道",
+            "BOULEVARD": "大道"
         },
         "border": {
             "WEST VEHICLE ENTRANCE": "西车辆入口",
