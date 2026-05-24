@@ -57,6 +57,34 @@
         "5th Floor": "4de Verdieping",
         "Roof": "Dak"
     },
+    "messages": {
+        "Please restart the app to apply the new language!": "",
+        "Downloading $0%": "",
+        "Loading $0": "",
+        "\"$0\" already exists. Do you want to overwrite it?": "",
+        "Are you sure you want to download $0 maps?": "",
+        "Are you sure you want to delete $0 maps?": "",
+        "Next time it will load faster": "",
+        "Loading...": "",
+        "Phase $0": "",
+        "Enter strat file name": "",
+        "Enter strat image name": "",
+        "Enter phase name": "",
+        "Export succesfull!": "",
+        "Export failed!": "",
+        "Strat saved for $0": "",
+        "No strat saved for $0": "",
+        "Strat checked succesfully!": "",
+        "Not supported file!": "",
+        "This strat was made for $0, not for $1.\nPlease choose another file.": "",
+        "Strat imported succesfully!\nWARNING! This is an old format of r6s.\nNot all the new features will work on the imported part of the strat\nThe drawings are placed on the \"Landscape\" layer. Use the \"Landscape\" tools to modify it": "",
+        "File not supported!": "",
+        "Error while reading file!": "",
+        "Wrong file format!": "",
+        "Enter text to print": "",
+        "No internet connection!": "",
+        "Found internet connection!": ""
+    },
     "settingsGroups": {
         "Main": "Hoofd",
         "Language": "Taal",
@@ -292,9 +320,10 @@
             "MAIN ENTRANCE": ""
         },
         "casino": {
-            "CONSTRUCTION": "",
-            "STREET": "",
-            "JUNKYARD": ""
+            "HELIPAD": "",
+            "RUINS": "",
+            "LOW SPAWN": "",
+            "POOL SIDE": ""
         },
         "consulate": {
             "SIDE ENTRANCE": "",

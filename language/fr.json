@@ -57,6 +57,34 @@
         "5th Floor": "4ème étage",
         "Roof": "Toit"
     },
+    "messages": {
+        "Please restart the app to apply the new language!": "Veuillez redémarrer l'application pour appliquer la nouvelle langue!",
+        "Downloading $0%": "Téléchargement $0%",
+        "Loading $0": "Chargement $0",
+        "\"$0\" already exists. Do you want to overwrite it?": "\"$0\" existe déjà. Voulez-vous le remplacer?",
+        "Are you sure you want to download $0 maps?": "Êtes-vous sûr de vouloir télécharger les cartes de $0?",
+        "Are you sure you want to delete $0 maps?": "Êtes-vous sûr de vouloir supprimer les cartes de $0?",
+        "Next time it will load faster": "La prochaine fois, le chargement sera plus rapide",
+        "Loading...": "Chargement...",
+        "Phase $0": "Phase $0",
+        "Enter strat file name": "Entrez le nom du fichier de stratégie",
+        "Enter strat image name": "Entrez le nom de l'image de stratégie",
+        "Enter phase name": "Entrez le nom de la phase",
+        "Export succesfull!": "Exportation réussie!",
+        "Export failed!": "Échec de l'exportation!",
+        "Strat saved for $0": "Stratégie sauvegardée pour $0",
+        "No strat saved for $0": "Aucune stratégie sauvegardée pour $0",
+        "Strat checked succesfully!": "Stratégie vérifiée avec succès!",
+        "Not supported file!": "Format de fichier non supporté!",
+        "This strat was made for $0, not for $1.\nPlease choose another file.": "Cette stratégie a été créée pour $0, pas pour $1.\nVeuillez choisir un autre fichier.",
+        "Strat imported succesfully!\nWARNING! This is an old format of r6s.\nNot all the new features will work on the imported part of the strat\nThe drawings are placed on the \"Landscape\" layer. Use the \"Landscape\" tools to modify it": "Stratégie importée avec succès!\nAVERTISSEMENT! Ceci est un ancien format de r6s.\nToutes les nouvelles fonctionnalités ne fonctionneront pas sur la partie importée de la stratégie\nLes dessins sont placés sur la couche \"Paysage\". Utilisez les outils \"Paysage\" pour la modifier",
+        "File not supported!": "Fichier non supporté!",
+        "Error while reading file!": "Erreur lors de la lecture du fichier!",
+        "Wrong file format!": "Format de fichier incorrect!",
+        "Enter text to print": "Entrez le texte à afficher",
+        "No internet connection!": "Pas de connexion internet!",
+        "Found internet connection!": "Connexion internet trouvée!"
+    },
     "settingsGroups": {
         "Main": "Principale",
         "Language": "Langue",
@@ -292,9 +320,10 @@
             "MAIN ENTRANCE": "ENTRÉE PRINCIPALE"
         },
         "casino": {
-            "CONSTRUCTION": "CONSTRUCTION",
-            "STREET": "RUE",
-            "JUNKYARD": "DÉCHARGE"
+            "HELIPAD": "HÉLIPORT",
+            "RUINS": "RUINES",
+            "LOW SPAWN": "SPAWN BAS",
+            "POOL SIDE": "CÔTÉ PISCINE"
         },
         "consulate": {
             "SIDE ENTRANCE": "ENTRÉE LATERALE",
