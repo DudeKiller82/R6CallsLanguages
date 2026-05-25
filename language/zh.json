@@ -304,7 +304,7 @@
         "bartlett": {
             "COURTYARD": "院子",
             "MAIN GATE": "主门",
-            "FESTIVAL": "节日区",
+            "FESTIVAL": "节日区"
         },
         "border": {
             "WEST VEHICLE ENTRANCE": "西车辆入口",
@@ -902,7 +902,7 @@
             "Coat": "衣帽寄存",
             "Mezza": "南夹层",
             "Helipad": "停机坪",
-            "Helipad Walkway": " 停机坪步道",
+            "Helipad Walkway": "停机坪步道",
             "Roof": "屋顶",
             "Roof Stairs": "屋顶楼梯"
         },
