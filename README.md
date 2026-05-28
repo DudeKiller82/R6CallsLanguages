@@ -33,6 +33,6 @@ Ratio:          6.86%
 
 # 简体中文
 Literals:       3587
-Translated:     3220
-Not Translated: 367
-Ratio:          89.77%
+Translated:     3587
+Not Translated: 0
+Ratio:          100.00%
