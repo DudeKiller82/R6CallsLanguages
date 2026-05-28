@@ -2318,7 +2318,7 @@
         "REDHAMMER": {
             "Thermite's specialized squad of Team Rainbow": "",
             "\"You can't always keep things in a straight line. Sometimes you need an explosion. - Thermite\"": "",
-            "Redhammer is not known for its delicate touch; when they are called in, all bets are off. They tear down anything and eliminate anyone that stands in their way. They are unshakeable and unstoppable, best suited for high-risk operations where casualties are all but guaranteed. They bring everything sharp and volatile, inflicting as much damage as necessary before the enemy can retaliate. Specialist Jordan \"Thermite\" Trace and his squad are some of the most resilient individuals, having been evaluated as the most likely to survive dangerous missions through their strength, unquestioning natures, and trust in each other. Their reports come with a warning: when Redhammer is sent in, it'''s implied that one should not look too closely at what they had to do.": ""
+            "Redhammer is not known for its delicate touch; when they are called in, all bets are off. They tear down anything and eliminate anyone that stands in their way. They are unshakeable and unstoppable, best suited for high-risk operations where casualties are all but guaranteed. They bring everything sharp and volatile, inflicting as much damage as necessary before the enemy can retaliate. Specialist Jordan \"Thermite\" Trace and his squad are some of the most resilient individuals, having been evaluated as the most likely to survive dangerous missions through their strength, unquestioning natures, and trust in each other. Their reports come with a warning: when Redhammer is sent in, it's implied that one should not look too closely at what they had to do.": ""
         },
         "VIPERSTRIKE": {
             "Hibana's specialized squad of Team Rainbow": "",
@@ -2506,20 +2506,7 @@
     },
     "featuresLabels": {
         "Y$0S$1: $2": "",
-        "January": "",
-        "February": "",
-        "March": "",
-        "April": "",
-        "May": "",
-        "June": "",
-        "July": "",
-        "August": "",
-        "September": "",
-        "October": "",
-        "November": "",
-        "December": "",
-        "$0 $1$2, $3": "",
-        "Year $0 Season $1 : $2 $3": "",
+        "Year $0 Season $1 : $2": "",
         "Born on $0 in $1": "",
         "$0 $1": "",
         "$0yo": "",
