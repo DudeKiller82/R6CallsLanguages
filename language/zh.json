@@ -106,7 +106,9 @@
         "Right": "右侧",
         "App Language": "APP语言",
         "English": "English",
+        "Español": "Español",
         "Français": "Français",
+        "日本語": "日本語",
         "Nederlands": "Nederlands",
         "Polski": "Polski",
         "Português (Brasil)": "Português (Brasil)",
@@ -2563,7 +2565,7 @@
         "$0yo": "$0岁",
         "$0m": "$0米",
         "$0kg": "$0公斤",
-        "Operation $0(Y$1S$2)": "$0行动（第$1年第$2赛季）",
+        "Operation $0 (Y$1S$2)": "$0 行动（第$1年第$2赛季）",
         "Biography": "人物传记",
         "Psychological Report": "心理报告",
         "UNAFFILIATED": "无所属",
@@ -3822,7 +3824,7 @@
             "Team Rainbow has been called to safeguard the seashore of Ibiza, Spain. Stationed on Ibiza's rocky shore, course through Balearic ruins and navigate booming bars to neutralize the threat. Get ready for a surround flow of combat laced with chaotic rushes as you explore a paradise gone wrong.": "彩虹小队被召来保卫西班牙伊比沙岛的海岸线。驻守在伊比沙岛的岩石海岸，穿越巴利阿里群岛遗迹，在热闹的酒吧间穿行以消灭威胁。准备好在这个走向堕落的天堂中体验混乱冲锋交织的环绕式战斗。"
         },
         "casino": {
-            "Since its opening last year, the Calypso Hotel and Casino is the gambling casino of choice in the city of Las Vegas. The complex cost an estimated $4 billion to build and furnish, making it the most expensive casino ever built in the city.": "自去年开业以来，卡吕普索酒店及赌场已成为拉斯维加斯市首选的博彩娱乐场所。该综合体造价估计高达40亿美元，是迄今为止该市有史以来造价最高的赌场。"
+            "Located in the heart of Las Vegas, Calypso Casino pays tribute to the Rainbow Six Vegas legacy. Built for competitive play, the map includes unique gameplay elements, destructible ingredients and signature casino landmarks. Rappel down from the rooftop crane, gather intel through vertical drone vents, and breach your way to the basement’s Vault.": "位于拉斯维加斯市中心的Calypso Casino向《彩虹六号：维加斯》的遗产致敬。为了竞技游戏而建，这张地图包含独特的游戏元素、可破坏的成分和标志性的赌场地标。从屋顶吊车上绳降，穿过垂直无人机通风口收集情报，并突破进入地下室的金库。"
         },
         "consulate": {
             "A high-risk, highly secured fortified location, this map depicts an assault on a French consulate in Ivory Coast.": "这是一处高风险、高度设防的据点，地图描绘了对科特迪瓦一座法国领事馆的突袭行动。"

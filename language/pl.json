@@ -106,7 +106,9 @@
         "Right": "Prawa",
         "App Language": "Język aplikacji",
         "English": "English",
+        "Español": "Español",
         "Français": "Français",
+        "日本語": "日本語",
         "Nederlands": "Nederlands",
         "Polski": "Polski",
         "Português (Brasil)": "Português (Brasil)",
@@ -2563,7 +2565,7 @@
         "$0yo": "$0 lat",
         "$0m": "$0 m",
         "$0kg": "$0 kg",
-        "Operation $0(Y$1S$2)": "Operacja $0 (R$1S$2)",
+        "Operation $0 (Y$1S$2)": "Operacja $0 (R$1S$2)",
         "Biography": "Biografia",
         "Psychological Report": "Raport psychologiczny",
         "UNAFFILIATED": "NIEZRZESZONY",
@@ -3822,7 +3824,7 @@
             "Team Rainbow has been called to safeguard the seashore of Ibiza, Spain. Stationed on Ibiza's rocky shore, course through Balearic ruins and navigate booming bars to neutralize the threat. Get ready for a surround flow of combat laced with chaotic rushes as you explore a paradise gone wrong.": "Drużyna Rainbow została wezwana, aby zabezpieczyć wybrzeże Ibizy, Hiszpania. Rozmieszczeni na skalistym brzegu Ibizy, przechodź przez ruiny Balearów i nawiguj przez tętniące życiem bary, aby zneutralizować zagrożenie. Przygotuj się na otaczający przepływ walki przeplatany chaotycznymi natarciami, gdy eksplorujesz raj, który poszedł nie tak."
         },
         "casino": {
-            "Since its opening last year, the Calypso Hotel and Casino is the gambling casino of choice in the city of Las Vegas. The complex cost an estimated $4 billion to build and furnish, making it the most expensive casino ever built in the city.": "Od czasu otwarcia w ubiegłym roku, Calypso Hotel and Casino jest kasynem hazardowym z wyboru w Las Vegas. Kompleks kosztował szacunkowo 4 miliardy dolarów do zbudowania i wyposażenia, czyniąc go najdroższym kasynem kiedykolwiek zbudowanym w mieście."
+            "Located in the heart of Las Vegas, Calypso Casino pays tribute to the Rainbow Six Vegas legacy. Built for competitive play, the map includes unique gameplay elements, destructible ingredients and signature casino landmarks. Rappel down from the rooftop crane, gather intel through vertical drone vents, and breach your way to the basement’s Vault.": "Położone w sercu Las Vegas, Calypso Casino oddaje hołd dziedzictwu Rainbow Six Vegas. Zbudowana do gry konkurencyjnej, mapa zawiera unikalne elementy rozgrywki, niszczalne składniki i charakterystyczne punkty orientacyjne kasyna. Zjazd na linie z dźwigu na dachu, zbieranie informacji przez pionowe wentylacje dronów i przebijanie się do skarbca w piwnicy."
         },
         "consulate": {
             "A high-risk, highly secured fortified location, this map depicts an assault on a French consulate in Ivory Coast.": "Lokalizacja wysokiego ryzyka, mocno zabezpieczona i ufortyfikowana, ta mapa przedstawia szturm na francuski konsulat na Wybrzeżu Kości Słoniowej."
