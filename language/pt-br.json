@@ -910,7 +910,9 @@
             "Helipad": "Heliporto",
             "Helipad Walkway": "Passarela do Heliporto",
             "Roof": "Telhado",
-            "Roof Stairs": "Escadas do Telhado"
+            "Roof Stairs": "Escadas do Telhado",
+            "Catwalk": "Passarela",
+            "Crane Catwalk": "Passarela de Grúa"
         },
         "consulate": {
             "Front Alley": "Beco da Frente",

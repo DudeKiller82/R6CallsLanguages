@@ -910,7 +910,9 @@
             "Helipad": "Héliport",
             "Helipad Walkway": "Chemin héliport",
             "Roof": "Toit",
-            "Roof Stairs": "Escalier toit"
+            "Roof Stairs": "Escalier toit",
+            "Catwalk": "Passerelle",
+            "Crane Catwalk": "Passerelle grue"
         },
         "consulate": {
             "Front Alley": "Allée avant",

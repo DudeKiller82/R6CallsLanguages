@@ -910,7 +910,9 @@
             "Helipad": "ヘリポート",
             "Helipad Walkway": "ヘリポート通路",
             "Roof": "屋上",
-            "Roof Stairs": "屋上階段"
+            "Roof Stairs": "屋上階段",
+            "Catwalk": "通路",
+            "Crane Catwalk": "クレーン通路"
         },
         "consulate": {
             "Front Alley": "正面路地",

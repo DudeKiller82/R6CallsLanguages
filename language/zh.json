@@ -910,7 +910,9 @@
             "Helipad": "停机坪",
             "Helipad Walkway": "停机坪步道",
             "Roof": "屋顶",
-            "Roof Stairs": "屋顶楼梯"
+            "Roof Stairs": "屋顶楼梯",
+            "Catwalk": "天桥",
+            "Crane Catwalk": "起重机天桥"
         },
         "consulate": {
             "Front Alley": "前巷",

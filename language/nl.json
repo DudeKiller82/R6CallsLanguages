@@ -910,7 +910,9 @@
             "Helipad": "Heliplatform",
             "Helipad Walkway": "Heliplatform Loopbrug",
             "Roof": "Dak",
-            "Roof Stairs": "Daktrap"
+            "Roof Stairs": "Daktrap",
+            "Catwalk": "Catwalk",
+            "Crane Catwalk": "Kraan Catwalk"
         },
         "consulate": {
             "Front Alley": "Voorsteeg",
