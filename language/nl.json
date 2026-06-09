@@ -1,7 +1,7 @@
 {
     "hotkeys": {
         "Show/Hide": "Toon/verstoppen",
-        "Toggle Second Screen": "Schakel tweede scherm in/uit"
+        "Second Screen": "Tweede Scherm"
     },
     "titlebarControls": {
         "Join Discord": "Discord lid worden",
@@ -62,6 +62,7 @@
         "Roof": "Dak"
     },
     "messages": {
+        "Please refresh the page to apply the new language!": "Vernieuw de pagina om de nieuwe taal toe te passen!",
         "Please restart the app to apply the new language!": "Start de app opnieuw op om de nieuwe taal toe te passen!",
         "Downloading $0%": "Downloaden $0%",
         "Loading $0": "Laden $0",
@@ -1219,7 +1220,7 @@
             "Gym": "Gym",
             "Laundry": "Was",
             "Garage": "Garage",
-            "Entrance": "Ingang",
+            "Garage Entrance": "Garagesingang",
             "APC": "APC",
             "Side Street": "Zijstraat",
             "Garage Front": "Garage Voorkant",
@@ -1229,21 +1230,19 @@
             "Front Yard": "Voortuin",
             "Treehouse": "Boomhuis",
             "Red Stairs": "Rode Trap",
-            "Kitchen": "Keuken",
-            "Stairs": "Trappen",
             "Lobby Stairs": "Lobby Trappen",
             "Front Balcony": "Voorkant Balkon",
             "Porch": "Balkon",
             "Gaming": "Spellen",
             "TV Entrance": "TV Ingang",
             "Lobby": "Lobby",
+            "Kitchen": "Keuken",
             "Office": "Kantoor",
             "Dining": "Eetzaal",
             "Connector": "Verbinding",
             "TV": "TV",
             "Music": "Musiek",
-            "Reading": "Lees",
-            "Balcony": "Balkon",
+            "Reading Balcony": "Leesbalkon",
             "Pink": "Roze",
             "Pink Dressing": "Roze Kleedkamer",
             "Car": "Auto",
@@ -1251,6 +1250,7 @@
             "Top Hallway": "Boven Gang",
             "Master Dressing": "Hoofd Kleedkamer",
             "Master": "Hoofd",
+            "Reading": "Lees",
             "Bathroom": "Badkamer",
             "Bathroom Hallway": "Badkamer Gang",
             "Roof": "Dak"
@@ -1654,10 +1654,7 @@
             "Reporter Entrance": "Reporter Ingang",
             "Ladder": "Ladder",
             "Cockpit Stairs": "Cockpit Trappen",
-            "Bath-": "Bad-",
-            "room": "Kamer",
-            "Back": "Achter",
-            "Stairs": "Trappen",
+            "Bathroom": "Badkamer",
             "Press B": "Drukkers B",
             "Press A": "Drukkers A",
             "Security": "Beveiliging",
@@ -1672,8 +1669,9 @@
             "Office": "Kantoor",
             "Office Hallway": "Kantoren Gang",
             "Meeting": "Meeting",
-            "Cabin": "Kabine",
+            "Cabin Staff": "Cabinepersoneel",
             "Radio": "Radio",
+            "Cabin": "Kabine",
             "Server A": "Server A",
             "Server B": "Server B",
             "Roof": "Dak"
@@ -2037,8 +2035,7 @@
             "Engine Stairs": "Motor Trappen",
             "Ladder": "Ladder",
             "Engine Hallway": "Motor Gang",
-            "Front": "Voorkant",
-            "Stairs": "Trappen",
+            "Front Stairs": "Voorste Trappen",
             "Submarine": "Onderzeeer",
             "West Glacier": "West Gletsjer",
             "East Breach": "Oost Breuk",
@@ -2058,7 +2055,6 @@
             "Boreal Entrance": "Boreaal Ingang",
             "Anchor": "Anker",
             "Utility": "Nuts",
-            "Front Stairs": "Voorste Trappen",
             "Cafeteria Hallway": "Cafeteria Gang",
             "Spa Deck": "Spa Terras",
             "Front Deck": "Voorkant Terras",
@@ -4209,6 +4205,7 @@
             "Vman680": "Vman680",
             "ErwinWRLD": "ErwinWRLD",
             "uteki": "uteki",
+            "Worm": "Worm",
             "Master map checker": "Hoofd kaartcontroleur",
             "AonyxC": "AonyxC",
             "Koki": "Koki",
@@ -4459,7 +4456,8 @@
             "Added support for various languages (French, Dutch, Chinese, Polish, Brazilian Portuguese)": "Ondersteuning toegevoegd voor diverse talen (Frans, Nederlands, Chinees, Pools, Braziliaans Portugees)",
             "June 2026": "Juni 2026",
             "Added support for modified map of Siege: Outback, Emerald Plains and Skyscraper": "Ondersteuning toegevoegd voor gewijzigde kaart van Siege: Outback, Emerald Plains en Skyscraper",
-            "Added support for various languages (Japanese, Spanish)": "Ondersteuning toegevoegd voor diverse talen (Japans, Spaans)"
+            "Added support for various languages (Japanese, Spanish)": "Ondersteuning toegevoegd voor diverse talen (Japans, Spaans)",
+            "Updated maps Presidential Plane and Yatch. Mostly removing Line of Sight Walls": "Bijgewerkte kaarten Presidentieel Vliegtuig en Jacht. Voornamelijk het verwijderen van zichtlijnmuren"
         }
     }
 }

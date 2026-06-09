@@ -1,7 +1,7 @@
 {
     "hotkeys": {
         "Show/Hide": "Afficher/Masquer",
-        "Toggle Second Screen": "Activer second écran"
+        "Second Screen": "Deuxième Écran"
     },
     "titlebarControls": {
         "Join Discord": "Rejoindre Discord",
@@ -62,7 +62,8 @@
         "Roof": "Toit"
     },
     "messages": {
-        "Please restart the app to apply the new language!": "Veuillez redémarrer l'application pour appliquer la nouvelle langue!",
+        "Please refresh the page to apply the new language!": "Veuillez actualiser la page pour appliquer la nouvelle langue !",
+        "Please restart the app to apply the new language!": "Veuillez redémarrer l'application pour appliquer la nouvelle langue !",
         "Downloading $0%": "Téléchargement $0%",
         "Loading $0": "Chargement $0",
         "\"$0\" already exists. Do you want to overwrite it?": "\"$0\" existe déjà. Voulez-vous le remplacer?",
@@ -1219,7 +1220,7 @@
             "Gym": "Muscu",
             "Laundry": "Laverie",
             "Garage": "Garage",
-            "Entrance": "Entrée",
+            "Garage Entrance": "Entrée du garage",
             "APC": "APC",
             "Side Street": "Rue latérale",
             "Garage Front": "Avant garage",
@@ -1229,21 +1230,19 @@
             "Front Yard": "Cour avant",
             "Treehouse": "Cabane",
             "Red Stairs": "Escalier rouge",
-            "Kitchen": "Cuisine",
-            "Stairs": "Escalier",
             "Lobby Stairs": "Escalier Lobby",
             "Front Balcony": "Balcon avant",
             "Porch": "Porch",
             "Gaming": "Salle de jeux",
             "TV Entrance": "Entrée TV",
             "Lobby": "Lobby",
+            "Kitchen": "Cuisine",
             "Office": "Bureau",
             "Dining": "Salle à manger",
             "Connector": "Connector",
             "TV": "TV",
             "Music": "Musique",
-            "Reading": "Salle de lecture",
-            "Balcony": "Balcon",
+            "Reading Balcony": "Balcon lecture",
             "Pink": "Rose",
             "Pink Dressing": "Dressing rose",
             "Car": "Voiture",
@@ -1251,6 +1250,7 @@
             "Top Hallway": "Couloir haut",
             "Master Dressing": "Dressing principal",
             "Master": "Master",
+            "Reading": "Salle de lecture",
             "Bathroom": "Salle de bain",
             "Bathroom Hallway": "Couloir salle de bain",
             "Roof": "Toit"
@@ -1654,10 +1654,7 @@
             "Reporter Entrance": "Entrée journaliste",
             "Ladder": "Echelle",
             "Cockpit Stairs": "Escalier cockpit",
-            "Bath-": "Salle de bain",
-            "room": "Pièce",
-            "Back": "Arrière",
-            "Stairs": "Escalier",
+            "Bathroom": "Salle de bain",
             "Press B": "Presse B",
             "Press A": "Presse A",
             "Security": "Sécurité",
@@ -1672,8 +1669,9 @@
             "Office": "Bureau",
             "Office Hallway": "Couloir bureau",
             "Meeting": "Meeting",
-            "Cabin": "Cabine",
+            "Cabin Staff": "Personnel cabine",
             "Radio": "Radio",
+            "Cabin": "Cabine",
             "Server A": "Serveur A",
             "Server B": "Serveur B",
             "Roof": "Toit"
@@ -2037,8 +2035,7 @@
             "Engine Stairs": "Escalier moteur",
             "Ladder": "Echelle",
             "Engine Hallway": "Couloir moteur",
-            "Front": "Avant",
-            "Stairs": "Escalier",
+            "Front Stairs": "Escalier avant",
             "Submarine": "Sous-marin",
             "West Glacier": "Glacier ouest",
             "East Breach": "Brêche est",
@@ -2058,7 +2055,6 @@
             "Boreal Entrance": "Entrée Boreal",
             "Anchor": "Ancre",
             "Utility": "Utilitaire",
-            "Front Stairs": "Escalier avant",
             "Cafeteria Hallway": "Couloir cafétéria",
             "Spa Deck": "Pont spa",
             "Front Deck": "Pont avant",
@@ -4209,6 +4205,7 @@
             "Vman680": "Vman680",
             "ErwinWRLD": "ErwinWRLD",
             "uteki": "uteki",
+            "Worm": "Worm",
             "Master map checker": "Vérificateur principal de cartes",
             "AonyxC": "AonyxC",
             "Koki": "Koki",
@@ -4459,7 +4456,8 @@
             "Added support for various languages (French, Dutch, Chinese, Polish, Brazilian Portuguese)": "Ajout du support de plusieurs langues (Français, Néerlandais, Chinois, Polonais, Portugais brésilien)",
             "June 2026": "Juin 2026",
             "Added support for modified map of Siege: Outback, Emerald Plains and Skyscraper": "Ajout du support des cartes modifiées de Siege : Outback, Llanuras Esmeralda et Rascacielos",
-            "Added support for various languages (Japanese, Spanish)": "Ajout du support de plusieurs langues (Japonais, Espagnol)"
+            "Added support for various languages (Japanese, Spanish)": "Ajout du support de plusieurs langues (Japonais, Espagnol)",
+            "Updated maps Presidential Plane and Yatch. Mostly removing Line of Sight Walls": "Mise à jour des cartes de l'Avion Présidentiel et du Yacht. Principalement suppression des murs de ligne de vue"
         }
     }
 }

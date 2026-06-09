@@ -1,7 +1,7 @@
 {
     "hotkeys": {
         "Show/Hide": "Pokaż/ukryj",
-        "Toggle Second Screen": "Przełącz drugi ekran"
+        "Second Screen": "Drugi ekran"
     },
     "titlebarControls": {
         "Join Discord": "Dołącz do Discorda",
@@ -62,6 +62,7 @@
         "Roof": "Dach"
     },
     "messages": {
+        "Please refresh the page to apply the new language!": "Proszę odświeżyć stronę, aby zastosować nowy język!",
         "Please restart the app to apply the new language!": "Uruchom ponownie aplikację, aby zastosować nowy język!",
         "Downloading $0%": "Pobieranie $0%",
         "Loading $0": "Ładowanie $0",
@@ -1219,7 +1220,7 @@
             "Gym": "Siłownia",
             "Laundry": "Pralnia",
             "Garage": "Garaż",
-            "Entrance": "Wejście",
+            "Garage Entrance": "Wejście do garażu",
             "APC": "Transporter opancerzony",
             "Side Street": "Boczna ulica",
             "Garage Front": "Frontowy garaż",
@@ -1229,21 +1230,19 @@
             "Front Yard": "Frontowe podwórko",
             "Treehouse": "Domek na drzewie",
             "Red Stairs": "Czerwone schody",
-            "Kitchen": "Kuchnia",
-            "Stairs": "Schody",
             "Lobby Stairs": "Schody holu",
             "Front Balcony": "Frontowy balkon",
             "Porch": "Ganek",
             "Gaming": "Gry",
             "TV Entrance": "Wejście TV",
             "Lobby": "Hol",
+            "Kitchen": "Kuchnia",
             "Office": "Biuro",
             "Dining": "Jadalnia",
             "Connector": "Łącznik",
             "TV": "TV",
             "Music": "Muzyka",
-            "Reading": "Czytelnia",
-            "Balcony": "Balkon",
+            "Reading Balcony": "Balkon czytelni",
             "Pink": "Różowy",
             "Pink Dressing": "Różowa garderoba",
             "Car": "Samochód",
@@ -1251,6 +1250,7 @@
             "Top Hallway": "Górny korytarz",
             "Master Dressing": "Garderoba główna",
             "Master": "Sypialnia główna",
+            "Reading": "Czytelnia",
             "Bathroom": "Łazienka",
             "Bathroom Hallway": "Korytarz łazienki",
             "Roof": "Dach"
@@ -1654,10 +1654,7 @@
             "Reporter Entrance": "Wejście reportera",
             "Ladder": "Drabina",
             "Cockpit Stairs": "Schody kabiny pilotów",
-            "Bath-": "Łazien-",
-            "room": "ka",
-            "Back": "Tył",
-            "Stairs": "Schody",
+            "Bathroom": "Łazienka",
             "Press B": "Prasa B",
             "Press A": "Prasa A",
             "Security": "Ochrona",
@@ -1672,8 +1669,9 @@
             "Office": "Biuro",
             "Office Hallway": "Korytarz biura",
             "Meeting": "Sala konferencyjna",
-            "Cabin": "Kabina",
+            "Cabin Staff": "Personel pokładowy",
             "Radio": "Radio",
+            "Cabin": "Kabina",
             "Server A": "Serwer A",
             "Server B": "Serwer B",
             "Roof": "Dach"
@@ -2037,8 +2035,7 @@
             "Engine Stairs": "Schody silnika",
             "Ladder": "Drabina",
             "Engine Hallway": "Korytarz silnika",
-            "Front": "Przód",
-            "Stairs": "Schody",
+            "Front Stairs": "Frontowe schody",
             "Submarine": "Łódź podwodna",
             "West Glacier": "Zachodni lodowiec",
             "East Breach": "Wschodnie przełamanie",
@@ -2058,7 +2055,6 @@
             "Boreal Entrance": "Wejście borealne",
             "Anchor": "Kotwica",
             "Utility": "Pomieszczenie techniczne",
-            "Front Stairs": "Frontowe schody",
             "Cafeteria Hallway": "Korytarz stołówki",
             "Spa Deck": "Pokład spa",
             "Front Deck": "Przedni pokład",
@@ -4209,6 +4205,7 @@
             "Vman680": "Vman680",
             "ErwinWRLD": "ErwinWRLD",
             "uteki": "uteki",
+            "Worm": "Worm",
             "Master map checker": "Główny sprawdzający mapy",
             "AonyxC": "AonyxC",
             "Koki": "Koki",
@@ -4459,7 +4456,8 @@
             "Added support for various languages (French, Dutch, Chinese, Polish, Brazilian Portuguese)": "Dodano obsługę różnych języków (Francuski, Holenderski, Chiński, Polski, Portugalski Brazylijski)",
             "June 2026": "Czerwiec 2026",
             "Added support for modified map of Siege: Outback, Emerald Plains and Skyscraper": "Dodano obsługę zmodyfikowanej mapy Siege: Outback, Szmaragdowe Równiny i Wieżowiec",
-            "Added support for various languages (Japanese, Spanish)": "Dodano obsługę różnych języków (Japoński, Hiszpański)"
+            "Added support for various languages (Japanese, Spanish)": "Dodano obsługę różnych języków (Japoński, Hiszpański)",
+            "Updated maps Presidential Plane and Yatch. Mostly removing Line of Sight Walls": "Zaktualizowane mapy Samolotu Prezydenckiego i Jachtu. Głównie usunięcie ścian linii wzroku"
         }
     }
 }

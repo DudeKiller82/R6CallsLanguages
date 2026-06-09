@@ -1,7 +1,7 @@
 {
     "hotkeys": {
         "Show/Hide": "表示/非表示",
-        "Toggle Second Screen": "セカンドスクリーン切替"
+        "Second Screen": "セカンドスクリーン"
     },
     "titlebarControls": {
         "Join Discord": "Discordに参加",
@@ -62,6 +62,7 @@
         "Roof": "屋上"
     },
     "messages": {
+        "Please refresh the page to apply the new language!": "新しい言語を適用するにはページを更新してください！",
         "Please restart the app to apply the new language!": "新しい言語を適用するにはアプリを再起動してください！",
         "Downloading $0%": "ダウンロード中 $0%",
         "Loading $0": "$0 を読み込み中",
@@ -1219,7 +1220,7 @@
             "Gym": "ジム",
             "Laundry": "洗濯室",
             "Garage": "ガレージ",
-            "Entrance": "入口",
+            "Garage Entrance": "ガレージ入口",
             "APC": "装甲車",
             "Side Street": "横道",
             "Garage Front": "ガレージ正面",
@@ -1229,21 +1230,19 @@
             "Front Yard": "前庭",
             "Treehouse": "ツリーハウス",
             "Red Stairs": "赤い階段",
-            "Kitchen": "キッチン",
-            "Stairs": "階段",
             "Lobby Stairs": "ロビー階段",
             "Front Balcony": "正面バルコニー",
             "Porch": "ポーチ",
             "Gaming": "ゲーム室",
             "TV Entrance": "TV入口",
             "Lobby": "ロビー",
+            "Kitchen": "キッチン",
             "Office": "オフィス",
             "Dining": "ダイニング",
             "Connector": "連絡通路",
             "TV": "TV",
             "Music": "音楽室",
-            "Reading": "読書室",
-            "Balcony": "バルコニー",
+            "Reading Balcony": "読書バルコニー",
             "Pink": "ピンク",
             "Pink Dressing": "ピンク更衣室",
             "Car": "車",
@@ -1251,6 +1250,7 @@
             "Top Hallway": "上部廊下",
             "Master Dressing": "マスター更衣室",
             "Master": "マスター寝室",
+            "Reading": "読書室",
             "Bathroom": "バスルーム",
             "Bathroom Hallway": "バスルーム廊下",
             "Roof": "屋上"
@@ -1654,10 +1654,7 @@
             "Reporter Entrance": "記者入口",
             "Ladder": "はしご",
             "Cockpit Stairs": "コックピット階段",
-            "Bath-": "バス",
-            "room": "ルーム",
-            "Back": "後部",
-            "Stairs": "階段",
+            "Bathroom": "バスルーム",
             "Press B": "プレスB",
             "Press A": "プレスA",
             "Security": "セキュリティ室",
@@ -1672,8 +1669,9 @@
             "Office": "オフィス",
             "Office Hallway": "オフィス廊下",
             "Meeting": "会議室",
-            "Cabin": "キャビン",
+            "Cabin Staff": "客室乗務員",
             "Radio": "無線室",
+            "Cabin": "キャビン",
             "Server A": "サーバーA",
             "Server B": "サーバーB",
             "Roof": "屋上"
@@ -2037,8 +2035,7 @@
             "Engine Stairs": "エンジン階段",
             "Ladder": "はしご",
             "Engine Hallway": "エンジン廊下",
-            "Front": "前部",
-            "Stairs": "階段",
+            "Front Stairs": "前部階段",
             "Submarine": "潜水艦",
             "West Glacier": "西氷河",
             "East Breach": "東破口",
@@ -2058,7 +2055,6 @@
             "Boreal Entrance": "北方入口",
             "Anchor": "錨",
             "Utility": "設備室",
-            "Front Stairs": "前部階段",
             "Cafeteria Hallway": "食堂廊下",
             "Spa Deck": "スパデッキ",
             "Front Deck": "前部デッキ",
@@ -4209,6 +4205,7 @@
             "Vman680": "Vman680",
             "ErwinWRLD": "ErwinWRLD",
             "uteki": "uteki",
+            "Worm": "Worm",
             "Master map checker": "マスターマップチェッカー",
             "AonyxC": "AonyxC",
             "Koki": "Koki",
@@ -4459,7 +4456,8 @@
             "Added support for various languages (French, Dutch, Chinese, Polish, Brazilian Portuguese)": "様々な言語のサポートを追加（フランス語、オランダ語、中国語、ポーランド語、ブラジルポルトガル語）",
             "June 2026": "2026年6月",
             "Added support for modified map of Siege: Outback, Emerald Plains and Skyscraper": "シージの修正マップのサポートを追加：アウトバック、エメラルドプレインズ、スカイスクレイパー",
-            "Added support for various languages (Japanese, Spanish)": "様々な言語のサポートを追加（日本語、スペイン語）"
+            "Added support for various languages (Japanese, Spanish)": "様々な言語のサポートを追加（日本語、スペイン語）",
+            "Updated maps Presidential Plane and Yatch. Mostly removing Line of Sight Walls": "大統領専用機とヨットのマップを更新。主に視線壁を削除"
         }
     }
 }

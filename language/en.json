@@ -1,7 +1,7 @@
 {
     "hotkeys": {
         "Show/Hide": "",
-        "Toggle Second Screen": ""
+        "Second Screen": ""
     },
     "titlebarControls": {
         "Join Discord": "",
@@ -62,6 +62,7 @@
         "Roof": ""
     },
     "messages": {
+        "Please refresh the page to apply the new language!": "",
         "Please restart the app to apply the new language!": "",
         "Downloading $0%": "",
         "Loading $0": "",
@@ -1219,7 +1220,7 @@
             "Gym": "",
             "Laundry": "",
             "Garage": "",
-            "Entrance": "",
+            "Garage Entrance": "",
             "APC": "",
             "Side Street": "",
             "Garage Front": "",
@@ -1229,21 +1230,19 @@
             "Front Yard": "",
             "Treehouse": "",
             "Red Stairs": "",
-            "Kitchen": "",
-            "Stairs": "",
             "Lobby Stairs": "",
             "Front Balcony": "",
             "Porch": "",
             "Gaming": "",
             "TV Entrance": "",
             "Lobby": "",
+            "Kitchen": "",
             "Office": "",
             "Dining": "",
             "Connector": "",
             "TV": "",
             "Music": "",
-            "Reading": "",
-            "Balcony": "",
+            "Reading Balcony": "",
             "Pink": "",
             "Pink Dressing": "",
             "Car": "",
@@ -1251,6 +1250,7 @@
             "Top Hallway": "",
             "Master Dressing": "",
             "Master": "",
+            "Reading": "",
             "Bathroom": "",
             "Bathroom Hallway": "",
             "Roof": ""
@@ -1654,10 +1654,7 @@
             "Reporter Entrance": "",
             "Ladder": "",
             "Cockpit Stairs": "",
-            "Bath-": "",
-            "room": "",
-            "Back": "",
-            "Stairs": "",
+            "Bathroom": "",
             "Press B": "",
             "Press A": "",
             "Security": "",
@@ -1672,8 +1669,9 @@
             "Office": "",
             "Office Hallway": "",
             "Meeting": "",
-            "Cabin": "",
+            "Cabin Staff": "",
             "Radio": "",
+            "Cabin": "",
             "Server A": "",
             "Server B": "",
             "Roof": ""
@@ -2037,8 +2035,7 @@
             "Engine Stairs": "",
             "Ladder": "",
             "Engine Hallway": "",
-            "Front": "",
-            "Stairs": "",
+            "Front Stairs": "",
             "Submarine": "",
             "West Glacier": "",
             "East Breach": "",
@@ -2058,7 +2055,6 @@
             "Boreal Entrance": "",
             "Anchor": "",
             "Utility": "",
-            "Front Stairs": "",
             "Cafeteria Hallway": "",
             "Spa Deck": "",
             "Front Deck": "",
@@ -4209,6 +4205,7 @@
             "Vman680": "",
             "ErwinWRLD": "",
             "uteki": "",
+            "Worm": "",
             "Master map checker": "",
             "AonyxC": "",
             "Koki": "",
@@ -4459,7 +4456,8 @@
             "Added support for various languages (French, Dutch, Chinese, Polish, Brazilian Portuguese)": "",
             "June 2026": "",
             "Added support for modified map of Siege: Outback, Emerald Plains and Skyscraper": "",
-            "Added support for various languages (Japanese, Spanish)": ""
+            "Added support for various languages (Japanese, Spanish)": "",
+            "Updated maps Presidential Plane and Yatch. Mostly removing Line of Sight Walls": ""
         }
     }
 }

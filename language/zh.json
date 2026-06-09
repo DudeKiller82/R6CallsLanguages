@@ -1,7 +1,7 @@
 {
     "hotkeys": {
         "Show/Hide": "显示/隐藏",
-        "Toggle Second Screen": "切换第二屏幕"
+        "Second Screen": "第二个屏幕"
     },
     "titlebarControls": {
         "Join Discord": "加入 Discord",
@@ -62,6 +62,7 @@
         "Roof": "屋顶"
     },
     "messages": {
+        "Please refresh the page to apply the new language!": "请刷新页面以应用新的语言设置！",
         "Please restart the app to apply the new language!": "请重启应用以应用新的语言设置！",
         "Downloading $0%": "正在下载 $0%",
         "Loading $0": "正在加载 $0",
@@ -1219,7 +1220,7 @@
             "Gym": "健身房",
             "Laundry": "洗衣间",
             "Garage": "车库",
-            "Entrance": "入口",
+            "Garage Entrance": "车库入口",
             "APC": "装甲运输车区域",
             "Side Street": "侧街",
             "Garage Front": "车库入口",
@@ -1229,21 +1230,19 @@
             "Front Yard": "前院",
             "Treehouse": "树屋",
             "Red Stairs": "红色楼梯",
-            "Kitchen": "厨房",
-            "Stairs": "楼梯",
             "Lobby Stairs": "大厅楼梯",
             "Front Balcony": "前侧阳台",
             "Porch": "后方走廊",
             "Gaming": "娱乐室",
             "TV Entrance": "电视间入口",
             "Lobby": "大厅",
+            "Kitchen": "厨房",
             "Office": "办公室",
             "Dining": "餐厅",
             "Connector": "楼梯过渡间",
             "TV": "电视间",
             "Music": "音乐室",
-            "Reading": "书房",
-            "Balcony": "阳台",
+            "Reading Balcony": "阅读阳台",
             "Pink": "粉红卧室",
             "Pink Dressing": "女孩卧室衣帽间",
             "Car": "赛车卧室",
@@ -1251,6 +1250,7 @@
             "Top Hallway": "楼上过道",
             "Master Dressing": "主卧更衣室",
             "Master": "主卧室",
+            "Reading": "书房",
             "Bathroom": "浴室",
             "Bathroom Hallway": "浴室过道",
             "Roof": "屋顶"
@@ -1654,10 +1654,7 @@
             "Reporter Entrance": "记者入口",
             "Ladder": "梯子",
             "Cockpit Stairs": "驾驶舱楼梯",
-            "Bath-": "浴室",
-            "room": "房间",
-            "Back": "后方",
-            "Stairs": "楼梯",
+            "Bathroom": "浴室",
             "Press B": "记者B区",
             "Press A": "记者A区",
             "Security": "安保室",
@@ -1672,8 +1669,9 @@
             "Office": "办公室",
             "Office Hallway": "办公室走廊",
             "Meeting": "会议室",
-            "Cabin": "驾驶舱",
+            "Cabin Staff": "机组人员",
             "Radio": "无线电舱",
+            "Cabin": "驾驶舱",
             "Server A": "机房 A",
             "Server B": "机房 B",
             "Roof": "屋顶"
@@ -2037,8 +2035,7 @@
             "Engine Stairs": "引擎楼梯",
             "Ladder": "梯子",
             "Engine Hallway": "引擎走廊",
-            "Front": "前端",
-            "Stairs": "楼梯",
+            "Front Stairs": "前楼梯",
             "Submarine": "潜水艇",
             "West Glacier": "西侧冰川",
             "East Breach": "船身东侧破洞",
@@ -2058,7 +2055,6 @@
             "Boreal Entrance": "棕熊号游艇下层入口",
             "Anchor": "船头甲板",
             "Utility": "杂物间",
-            "Front Stairs": "前楼梯",
             "Cafeteria Hallway": "餐厅走廊",
             "Spa Deck": "水疗区域",
             "Front Deck": "船头甲板",
@@ -4209,6 +4205,7 @@
             "Vman680": "Vman680",
             "ErwinWRLD": "ErwinWRLD",
             "uteki": "uteki",
+            "Worm": "Worm",
             "Master map checker": "首席地图审核员",
             "AonyxC": "AonyxC",
             "Koki": "Koki",
@@ -4459,7 +4456,8 @@
             "Added support for various languages (French, Dutch, Chinese, Polish, Brazilian Portuguese)": "添加了多语言支持（法语、荷兰语、中文、波兰语、巴西葡萄牙语）",
             "June 2026": "2026年6月",
             "Added support for modified map of Siege: Outback, Emerald Plains and Skyscraper": "添加了围攻修改版地图支持：アウトバック、エメラルドプレインズ、スカイスクレイパー",
-            "Added support for various languages (Japanese, Spanish)": "添加了多语言支持（日本語、スペイン語）"
+            "Added support for various languages (Japanese, Spanish)": "添加了多语言支持（日本語、スペイン語）",
+            "Updated maps Presidential Plane and Yatch. Mostly removing Line of Sight Walls": "更新了总统专机和游艇地图。主要删除了视线墙"
         }
     }
 }
